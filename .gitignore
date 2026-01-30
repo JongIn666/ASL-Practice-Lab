@@ -1,9 +1,12 @@
-# Node
+# Node / Next
 node_modules/
 .next/
 out/
 build/
 
-# Python virtual env
+# Python venv
 venv/
 .venv/
+
+# macOS
+.DS_Store
