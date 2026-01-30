@@ -1,0 +1,28 @@
+### Website next.js ###
+# For setup / create asp-practice-app
+npx create-next-app@latest asl-practice-app
+
+# start the website
+cd asl-practice-app
+npm run dev
+
+
+#install
+npm install @mediapipe/hands @mediapipe/drawing_utils
+npm install @tensorflow/tfjs
+npm install @mediapipe/hands@0.4.1646424915
+
+
+### Training model ###
+# setup environment (inside ASL)
+cd ASL
+python -m venv venv
+
+# activate virtual environment - MacOS / Linux
+source venv/bin/activate
+
+# activate virtual environment - Windows (Command prompt)
+.\venv\Scripts\activate
+
+# install
+pip install tensorflow tensorflowjs numpy pandas scikit-learn

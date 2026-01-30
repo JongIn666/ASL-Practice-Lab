@@ -1,0 +1,29 @@
+ASL/
+├── AboutThisProject/
+│   ├── folder_structure.txt
+│   └── used_linux_command.txt
+├── asl-practice-app/
+│   ├── .next/
+│   ├── node_modules/
+│   ├── app/
+│   ├── components/
+│   │   ├── TestMode.txt
+│   │   └── RecordMode.txs
+│   ├── public/
+│   │   └── model
+│   ├── utils/
+│   │   └── handUtils.ts
+│   ├── .gitignore
+│   ├── eslint.confid.mjs
+│   ├── next-env.d.ts
+│   ├── next.config.ts
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── postcss.config.mjs
+│   ├── README.md
+│   └── tsconfig.json
+├── training/
+│   ├── data/
+│   ├── test.py
+│   └── training_model.py
+└── venv/
