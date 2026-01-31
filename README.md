@@ -19,9 +19,9 @@ Privacy-friendly: all hand tracking + inference runs locally in your browser. No
 
 ## Needs work on
 
-- **A-E** currently, my model can only hand sign from A-E
+- **A-E** currently my model only works on hand sign from A-E
 - **static motion** My model takes in static motion. Some ASL sign includes dynamatic movement like J and Z.
-- **right hand** The model shows inconsistency between right hand and left hand.
+- **right hand** The model shows inconsistency between right hand and left hand. Greater accuracy for right hand.
 
 ---
 
